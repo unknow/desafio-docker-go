@@ -1,6 +1,6 @@
 # Desafio Go FullCycle
 
-# Pull
+# Obter imagem
 ```
 docker pull stanleyalves/desafio-docker-go
 ```
